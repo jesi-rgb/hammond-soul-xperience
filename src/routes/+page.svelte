@@ -9,7 +9,7 @@
 <Page>
 	<ScrollingTitle slot="title" />
 	<Subtitle slot="subtitle">
-		<p class="w-[80%] ml-5 xl:w-1/3 xl:ml-32">
+		<p class="w-[80%] md:text-2xl ml-5 xl:w-1/3 xl:ml-32">
 			<span class="font-bold">Hammond Soul Xperience (HSX)</span> es una banda formada por músicos
 			que se conocieron sobre el escenario, participando en las jam sessions organizadas por la
 			asociación <span class="font-bold">Jaén Jazzy</span>.
