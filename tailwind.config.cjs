@@ -15,7 +15,7 @@ const config = {
       {
         luxury: {
           ...require('daisyui/src/theming/themes')['[data-theme=luxury]'],
-          primary: '#FFB752'
+          'base-content': '#FFB752'
         }
       }
     ]

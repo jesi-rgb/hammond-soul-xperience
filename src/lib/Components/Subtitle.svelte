@@ -1,3 +1,3 @@
-<div class="my-20 font-extralight text-2xl tracking-wide">
+<div class="my-20 tracking-wide">
 	<slot />
 </div>
