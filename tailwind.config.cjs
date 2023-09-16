@@ -9,6 +9,7 @@ const config = {
   plugins: [require('daisyui')],
 
   daisyui: {
+    logs: false,
     themes: [
       'luxury',
 

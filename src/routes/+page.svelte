@@ -19,11 +19,38 @@
 
 <Page>
 	<Title slot="title">
+		<div class="ml-5 xl:text-right xl:mr-32">DEMOS</div>
+	</Title>
+	<Subtitle slot="subtitle">
+		<iframe
+			height="315"
+			class="ml-5 xl:ml-32 w-[80%] md:w-[560px] border-base-content border-2 rounded-xl"
+			src="https://www.youtube.com/embed/oCxxBpx2z8E?si=XuAp0FpW1TDxlqW3"
+			title="HSX Live"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen
+		/>
+		<p class="ml-5 xl:ml-32 mt-10 text-xl md:text-2xl w-[80%]">
+			La <span class="font-bold">HSX</span> en la última Jam Session del curso 2022/2023 de la
+			Jazzy. <br />Jaén, 16 Junio 2023
+		</p>
+	</Subtitle>
+</Page>
+
+<Page>
+	<Title slot="title">
 		<div class="ml-5 xl:text-right xl:mr-32">BIOGRAFÍA</div>
 	</Title>
 	<Subtitle slot="subtitle">
-		<div class="xl:grid xl:justify-stretch xl:text-2xl">
-			<p class="xl:text-right xl:justify-self-end xl:w-[40%] w-[80%] xl:mr-32 ml-5">
+		<div class="lg:grid lg:grid-cols-2 xl:justify-stretch xl:text-2xl gap-10">
+			<aside>
+				<img
+					src="/assets/hsx.jpg"
+					alt="HSX"
+					class="w-[110%] scale-110 md:scale-100 md:w-fit my-20 md:my-0 border border-base-content rounded-xl xl:ml-5 xl:hover:-rotate-[1deg] xl:transition-transform"
+				/>
+			</aside>
+			<p class="xl:text-justify xl:justify-self-end w-[80%] xl:w-fit xl:mr-32 ml-5">
 				Aunque con historias personales y musicales dispares, los miembros de HSX comparten un
 				desproporcionado, interés por la música de raíces afroamericanas que orbitan alrededor del
 				<span class="font-bold">jazz-funk</span>, pero que también se envuelven de soul e incluso la
