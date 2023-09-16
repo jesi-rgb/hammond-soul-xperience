@@ -1,4 +1,4 @@
-<footer class="border-t border-base-content w-[80%] mx-auto pt-5">
+<footer class="border-t border-base-content w-[90%] ml-auto mr-1 pt-5">
 	<div class="flex flex-col justify-between md:flex-row">
 		<div>
 			Sitio web desarrollado por <a href="https://jesirgb.com" class="underline font-bold"
