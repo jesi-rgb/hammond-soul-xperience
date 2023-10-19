@@ -22,9 +22,9 @@
 			Carlos Gómez-Ariza
 		</div>
 		<div class="backdrop-blur-3xl backdrop-brightness-50">
-			Miembro fundador de la banda granadina de jazz-funk instrumental Spick & Span, ha participado
-			en las grabaciones de estudio en los discos de un buen número de grupos como Mojø, Harry Up, o
-			Los Esclavos
+			Miembro fundador de la banda granadina de jazz-funk instrumental <strong>Spick & Span</strong
+			>, ha participado en las grabaciones de estudio en los discos de un buen número de grupos como
+			Mojø, Harry Up, o Los Esclavos
 		</div>
 	</div>
 

@@ -23,8 +23,7 @@
 	</Title>
 	<Subtitle slot="subtitle">
 		<iframe
-			height="720"
-			class="ml-5 xl:ml-32 w-[80%] border-base-content border-2 rounded-xl"
+			class="ml-5 xl:ml-32 w-[80%] xl:w-[800px] h-[300px] md:h-[500px] border-base-content border-2 rounded-xl"
 			src="https://www.youtube.com/embed/oCxxBpx2z8E?si=XuAp0FpW1TDxlqW3"
 			title="HSX Live"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -47,7 +46,7 @@
 				<img
 					src="/assets/hsx.jpg"
 					alt="HSX"
-					class="overflow-x-clip md:scale-100 md:w-fit my-20 md:my-0 border-y border-base-content xl:ml-5 xl:hover:-rotate-[1deg] xl:transition-transform"
+					class="overflow-x-clip md:scale-100 md:w-fit my-20 md:my-0 border-y md:border border-base-content xl:ml-5 xl:hover:-rotate-[1deg] xl:transition-transform xl:rounded-md"
 				/>
 			</aside>
 			<p class="xl:text-justify xl:justify-self-end w-[80%] xl:w-fit xl:mr-32 ml-5">
