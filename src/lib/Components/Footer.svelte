@@ -5,6 +5,6 @@
 				>Jesús Rascón</a
 			>
 		</div>
-		<div class="font-bold text-2xl">HSX</div>
+		<div class="font-bold font-title text-2xl">HSX</div>
 	</div>
 </footer>

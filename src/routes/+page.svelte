@@ -19,26 +19,46 @@
 
 <Page>
 	<Title slot="title">
-		<div class="ml-5 xl:text-right xl:mr-32">DEMOS</div>
+		<div class="ml-5 font-title xl:text-right xl:mr-32">DEMOS</div>
 	</Title>
 	<Subtitle slot="subtitle">
-		<iframe
-			class="ml-5 xl:ml-32 w-[80%] xl:w-[800px] h-[300px] md:h-[500px] border-base-content border-2 rounded-xl"
-			src="https://www.youtube.com/embed/oCxxBpx2z8E?si=XuAp0FpW1TDxlqW3"
-			title="HSX Live"
-			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-			allowfullscreen
-		/>
-		<p class="ml-5 xl:ml-32 mt-10 text-xl md:text-2xl w-[80%]">
-			La <span class="font-bold">HSX</span> en la última Jam Session del curso 2022/2023 de la
-			Jazzy. <br />Jaén, 16 Junio 2023
-		</p>
+		<div class="flex flex-col space-y-20">
+			<div>
+				<iframe
+					class="ml-5 xl:ml-32 w-[80%] xl:w-[800px] h-[300px] md:h-[500px] border-base-content border-2 rounded-xl"
+					width="560"
+					height="315"
+					src="https://www.youtube.com/embed/Dka1qR5ecd0?si=GNWbfpb44j4tH7gT"
+					title="YouTube video player"
+					frameborder="0"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+					allowfullscreen
+				/>
+
+				<p class="ml-5 xl:ml-32 mt-5 text-xl md:text-2xl w-[80%]">
+					Concierto completo de la <span class="font-bold">HSX</span> en el Café Número 31, en Úbeda.
+				</p>
+			</div>
+			<div>
+				<iframe
+					class="ml-5 xl:ml-32 w-[80%] xl:w-[800px] h-[300px] md:h-[500px] border-base-content border-2 rounded-xl"
+					src="https://www.youtube.com/embed/oCxxBpx2z8E?si=XuAp0FpW1TDxlqW3"
+					title="HSX Live"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+					allowfullscreen
+				/>
+				<p class="ml-5 xl:ml-32 mt-5 text-xl md:text-2xl w-[80%]">
+					La <span class="font-bold">HSX</span> en la última Jam Session del curso 2022/2023 de la
+					Jazzy. <br />Jaén, 16 Junio 2023
+				</p>
+			</div>
+		</div>
 	</Subtitle>
 </Page>
 
 <Page>
 	<Title slot="title">
-		<div class="ml-5 xl:text-right xl:mr-32">BIOGRAFÍA</div>
+		<div class="ml-5 xl:text-right font-title xl:mr-32">BIOGRAFÍA</div>
 	</Title>
 	<Subtitle slot="subtitle">
 		<div class="lg:grid lg:grid-cols-2 xl:justify-stretch xl:text-2xl gap-10">
@@ -67,7 +87,7 @@
 
 <Page>
 	<Title slot="title">
-		<div class="ml-5">COMPONENTES</div>
+		<div class="ml-5 font-title">COMPONENTES</div>
 	</Title>
 	<Subtitle slot="subtitle">
 		<Components />

@@ -3,7 +3,9 @@
 >
 	<div class="flex flex-col xl:w-1/4 w-[80%] relative">
 		<img src="/assets/nico.jpg" alt="hsx" class="w-[200px] absolute -z-10 left-5 -top-52" />
-		<div class="text-4xl mb-10 font-extrabold backdrop-blur-3xl w-fit rounded-xl py-2 px-2">
+		<div
+			class="font-title text-4xl mb-10 font-extrabold backdrop-blur-3xl w-fit rounded-xl py-2 px-2"
+		>
 			Nico Pancorbo
 		</div>
 		<div class="backdrop-blur-3xl backdrop-brightness-50">
@@ -18,7 +20,9 @@
 			alt="hsx"
 			class="w-[200px] absolute -z-10 right-[25%] -top-52 -scale-x-100"
 		/>
-		<div class="text-[35px] mb-10 font-bold backdrop-blur-3xl w-fit rounded-xl py-2 pr-2">
+		<div
+			class="text-[35px] font-title mb-10 font-bold backdrop-blur-3xl w-fit rounded-xl py-2 pr-2"
+		>
 			Carlos Gómez-Ariza
 		</div>
 		<div class="backdrop-blur-3xl backdrop-brightness-50">
@@ -35,7 +39,7 @@
 			class="w-[200px] absolute -z-10 right-4 -top-52 -scale-x-100"
 		/>
 		<div
-			class="text-4xl md:text-right mb-10 font-extrabold backdrop-blur-3xl backdrop-brightness-[.3] w-full rounded-xl py-2 pr-2"
+			class="text-4xl md:text-right font-title mb-10 font-extrabold backdrop-blur-3xl backdrop-brightness-[.3] w-full rounded-xl py-2 pr-2"
 		>
 			Silvano Herman
 		</div>
@@ -56,7 +60,7 @@
 		class="absolute -z-10 w-[80%] md:w-[400px] md:top-10 -top-44"
 	/>
 	<div class="flex flex-col xl:w-1/4 w-[80%]">
-		<div class="text-4xl mb-10 font-bold backdrop-blur-3xl w-fit">Daniel Cortés</div>
+		<div class="text-4xl mb-10 font-bold font-title backdrop-blur-3xl w-fit">Daniel Cortés</div>
 		<div class="backdrop-blur-3xl backdrop-brightness-50 w-[70%]">
 			Músico eminentemente autodidacta comparte la actividad musical con la docencia. Ha colaborado
 			en numerosos proyectos de distinta índole, tanto en directo como en estudio. La premiada
@@ -65,7 +69,7 @@
 		</div>
 	</div>
 	<div class="flex flex-col xl:w-1/4 w-[80%]">
-		<div class="text-4xl mb-10 font-bold md:text-right">Jesús Rascón</div>
+		<div class="text-4xl mb-10 font-bold font-title md:text-right">Jesús Rascón</div>
 		<div class="backdrop-blur-3xl backdrop-brightness-50 w-[70%] md:self-end">
 			Multinstrumentista y productor con decenas de conciertos, ingentes cantidades de armonía y un
 			álbum autoproducido a la espalda. Siendo un ávido estudioso del funk, su instrumento de

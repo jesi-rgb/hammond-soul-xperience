@@ -1,4 +1,4 @@
-<div class="w-[95%] mx-auto overflow-x-hidden">
+<div class="w-[95%] font-title mx-auto overflow-x-hidden">
 	<div class="scroller text-[15rem] whitespace-nowrap h-fit font-extrabold tracking-tight">HSX</div>
 </div>
 
