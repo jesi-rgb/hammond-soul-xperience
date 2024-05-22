@@ -11,8 +11,6 @@ const config = {
   daisyui: {
     logs: false,
     themes: [
-      'luxury',
-
       {
         luxury: {
           ...require('daisyui/src/theming/themes')['[data-theme=luxury]'],
